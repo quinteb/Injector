@@ -1,0 +1,16 @@
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.csproj.AssemblyReference.cache
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\MainWindow.g.cs
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\App.g.cs
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector_MarkupCompile.cache
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector_MarkupCompile.lref
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\bin\Debug\Injector.exe.config
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\bin\Debug\Injector.exe
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\bin\Debug\Injector.pdb
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\MainWindow.baml
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.g.resources
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.Properties.Resources.resources
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.csproj.GenerateResource.cache
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.csproj.CoreCompileInputs.cache
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.exe
+C:\Users\quint\OneDrive\Bureaublad\DLL Injector\obj\Debug\Injector.pdb
